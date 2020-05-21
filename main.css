@@ -2,5 +2,12 @@ body {
   background: red;
   color: #ffffff;
   font-size: 24px;
+}
 
+p {
+  color: #222;
+}
+
+h2 {
+  font-size: 50px;
 }
